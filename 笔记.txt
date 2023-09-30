@@ -1,0 +1,2 @@
+1. 继续
+2. 不存储旧节点，用户怎么用merkle proof在链上验证资产？ getProof?
